@@ -1,8 +1,7 @@
 from gpiozero import *
 import time
 
-motor = Motor(20,21)
-
+motor = Motor(2,20)
 
 while True:
     speed = input()
