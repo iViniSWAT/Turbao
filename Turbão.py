@@ -2,7 +2,7 @@
 from guizero import *
 import sys
 
-volAleta = 1922223.16 #mm³
+
 
 #def exitapp():
 #    sys.exit()
@@ -61,11 +61,6 @@ def milhoVariaveis():
     liq2po2_but.text_size=20
     liq2po2_but.bg="white"
     liq2po2_but.font="Geometria"
-
-
-    pesoEspMilho = 0.70 #Kg/m³ - 0,0007 g/cm3
-    densEspMilho = 1.277 #g/cm³ - 1277 Kg/m³
-    volEspMilho = 0.0007 #kg/cm³   0.000548159 #m3
 
 #------------------------------------------------------------------------------#
 
